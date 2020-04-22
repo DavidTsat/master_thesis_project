@@ -9,7 +9,8 @@ import sys
 from dataLoader import loadData
 import os
 
-seed = int(time())
+# seed = int(time())
+seed = 1234
 np.random.seed(seed)
 
 
