@@ -1,2 +1,2 @@
 # master_thesis_project
-Sparseness reduction for collaborative filtering
+Sparsity reduction for collaborative filtering
